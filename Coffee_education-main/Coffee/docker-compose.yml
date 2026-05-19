@@ -1,0 +1,30 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:16
+    container_name: coffee-db
+    restart: always
+    environment:
+      POSTGRES_DB: coffee
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  web:
+    image: elyamakhmudova/coffee-app:latest
+    container_name: coffee-web
+    restart: always
+    depends_on:
+      - db
+    ports:
+      - "80:80"
+    environment:
+      ASPNETCORE_URLS: http://+:80
+      ConnectionStrings__DefaultConnection: Host=db;Port=5432;Database=coffee;Username=postgres;Password=postgres
+
+volumes:
+  pgdata:
