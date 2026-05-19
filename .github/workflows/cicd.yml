@@ -20,6 +20,7 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
 
       - name: Build Docker image
+        working-directory: Coffee_education-main/Coffe_projec
         run: docker build -t elyamakhmudova/coffee-app:latest .
 
       - name: Push Docker image
