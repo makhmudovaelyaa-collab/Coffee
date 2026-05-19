@@ -18,7 +18,7 @@
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.0"
         },
         "runtime": {
-          "Coffee.dll": {}
+          "": {}
         }
       },
       "Azure.Core/1.38.0": {

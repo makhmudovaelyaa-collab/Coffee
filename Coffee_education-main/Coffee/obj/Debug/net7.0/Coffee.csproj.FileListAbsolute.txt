@@ -5,7 +5,7 @@ C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\bin\Debug\net7.0\Coffe
 C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\bin\Debug\net7.0\Coffee.exe
 C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\bin\Debug\net7.0\Coffee.deps.json
 C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\bin\Debug\net7.0\Coffee.runtimeconfig.json
-C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\bin\Debug\net7.0\Coffee.dll
+C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\bin\Debug\net7.0\
 C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\bin\Debug\net7.0\Coffee.pdb
 C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\bin\Debug\net7.0\Azure.Identity.dll
@@ -288,8 +288,8 @@ C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\obj\Debug\net7.0\stati
 C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\obj\Debug\net7.0\staticwebassets.build.endpoints.json
 C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\obj\Debug\net7.0\Coffee.csproj.Up2Date
-C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\obj\Debug\net7.0\Coffee.dll
-C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\obj\Debug\net7.0\refint\Coffee.dll
+C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\obj\Debug\net7.0\
+C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\obj\Debug\net7.0\refint\
 C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\obj\Debug\net7.0\Coffee.pdb
 C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\obj\Debug\net7.0\Coffee.genruntimeconfig.cache
-C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\obj\Debug\net7.0\ref\Coffee.dll
+C:\Users\User\Desktop\Coffee\Coffee_education-main\Coffee\obj\Debug\net7.0\ref\
